@@ -1,0 +1,102 @@
+INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002 - Copy.jpg ==> 20140629_081419.jpg
+INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002.jpg ==> 20140629_081419_001.jpg
+INFO main org.kenigma.imageutil.ImageUtil - D:\temp\001.jpg ==> 20140629_081509.jpg
+2014-07-01 19:22:57,049 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002 - Copy.jpg ==> 20140629_081419.jpg
+2014-07-01 19:22:57,057 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002.jpg ==> 20140629_081419_001.jpg
+2014-07-01 19:22:57,059 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\001.jpg ==> 20140629_081509.jpg
+2014-07-01 19:29:53,451 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002 - Copy.jpg ==> D:\new;20140629_081419.jpg
+2014-07-01 19:29:53,642 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002.jpg ==> D:\new;20140629_081419_001.jpg
+2014-07-01 19:29:53,727 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\001.jpg ==> D:\new;20140629_081509.jpg
+2014-07-01 19:30:38,690 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002 - Copy.jpg ==> D:\new\20140629_081419.jpg
+2014-07-01 19:30:38,784 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002.jpg ==> D:\new\20140629_081419_001.jpg
+2014-07-01 19:30:38,791 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\001.jpg ==> D:\new\20140629_081509.jpg
+2014-07-01 19:38:29,715 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002 - Copy.jpg ==> D:\new\20140629\20140629_081419.jpg
+2014-07-01 19:38:29,737 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002.jpg ==> D:\new\20140629\20140629_081419_001.jpg
+2014-07-01 19:38:29,751 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\001.jpg ==> D:\new\20140629\20140629_081509.jpg
+2014-07-01 19:56:12,491 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002 - Copy.jpg ==> D:\new;20140629\20140629_081419.jpg
+2014-07-01 19:56:12,533 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002.jpg ==> D:\new;20140629\20140629_081419_001.jpg
+2014-07-01 19:56:12,538 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\001.jpg ==> D:\new;20140629\20140629_081509.jpg
+2014-07-01 19:56:46,716 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002 - Copy.jpg ==> D:\new\20140629\20140629_081419.jpg
+2014-07-01 19:56:46,738 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002.jpg ==> D:\new\20140629\20140629_081419_001.jpg
+2014-07-01 19:56:46,743 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\002 - Copy - Copy.jpg ==> D:\new\20140629\20140629_081419_002.jpg
+2014-07-01 19:56:46,748 INFO main org.kenigma.imageutil.ImageUtil - D:\temp\001.jpg ==> D:\new\20140629\20140629_081509.jpg
+2014-07-01 20:02:27,866 INFO main org.kenigma.imageutil.ImageUtil - Copy: D:\temp\002 - Copy.jpg ==> D:\new\20140629\20140629_081419_003.jpg 
+2014-07-01 20:02:27,873 INFO main org.kenigma.imageutil.ImageUtil - Copy: D:\temp\002.jpg ==> D:\new\20140629\20140629_081419_004.jpg 
+2014-07-01 20:02:27,880 INFO main org.kenigma.imageutil.ImageUtil - Copy: D:\temp\002 - Copy - Copy.jpg ==> D:\new\20140629\20140629_081419_005.jpg 
+2014-07-01 20:02:27,885 INFO main org.kenigma.imageutil.ImageUtil - Copy: D:\temp\001.jpg ==> D:\new\20140629\20140629_081509_001.jpg 
+2014-07-01 20:02:47,305 INFO main org.kenigma.imageutil.ImageUtil - Copy: D:\temp\002 - Copy.jpg ==> D:\new\20140629\20140629_081419.jpg 
+2014-07-01 20:02:47,320 INFO main org.kenigma.imageutil.ImageUtil - Copy: D:\temp\002.jpg ==> D:\new\20140629\20140629_081419_001.jpg 
+2014-07-01 20:02:47,325 INFO main org.kenigma.imageutil.ImageUtil - Copy: D:\temp\002 - Copy - Copy.jpg ==> D:\new\20140629\20140629_081419_002.jpg 
+2014-07-01 20:02:47,329 INFO main org.kenigma.imageutil.ImageUtil - Copy: D:\temp\001.jpg ==> D:\new\20140629\20140629_081509.jpg 
+2014-07-01 20:15:37,175 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002 - Copy.jpg ==> d:\new\20140629\20140629_081419_003.jpg 
+2014-07-01 20:15:37,195 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002.jpg ==> d:\new\20140629\20140629_081419_004.jpg 
+2014-07-01 20:15:37,202 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002 - Copy - Copy.jpg ==> d:\new\20140629\20140629_081419_005.jpg 
+2014-07-01 20:15:37,207 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\001.jpg ==> d:\new\20140629\20140629_081509_001.jpg 
+2014-07-01 20:17:50,176 INFO main org.kenigma.imageutil.ImageUtil - Move: d:\temp\002 - Copy.jpg ==> d:\newm\20140629\20140629_081419.jpg 
+2014-07-01 20:17:50,182 INFO main org.kenigma.imageutil.ImageUtil - Move: d:\temp\002.jpg ==> d:\newm\20140629\20140629_081419_001.jpg 
+2014-07-01 20:17:50,184 INFO main org.kenigma.imageutil.ImageUtil - Move: d:\temp\002 - Copy - Copy.jpg ==> d:\newm\20140629\20140629_081419_002.jpg 
+2014-07-01 20:17:50,185 INFO main org.kenigma.imageutil.ImageUtil - Move: d:\temp\001.jpg ==> d:\newm\20140629\20140629_081509.jpg 
+2014-07-06 12:36:19,174 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\asdf\001.jpg ==> d:\new\20140629\20140629_081419.jpg 
+2014-07-06 12:36:19,186 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: d:\temp\asdf\001s.jpg
+java.lang.NullPointerException
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:114)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:31)
+2014-07-06 12:36:19,195 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002.jpg ==> d:\new\20140629\20140629_081419_001.jpg 
+2014-07-06 12:36:19,199 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\003.jpg ==> d:\new\20140629\20140629_081419_002.jpg 
+2014-07-06 12:38:41,004 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\asdf\001.jpg ==> d:\new\20140629\20140629_081419.jpg 
+2014-07-06 12:38:41,008 ERROR main org.kenigma.imageutil.ImageUtil - No EXIF info for d:\temp\asdf\001s.jpg, skipping.
+2014-07-06 12:38:41,016 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002.jpg ==> d:\new\20140629\20140629_081419_001.jpg 
+2014-07-06 12:38:41,021 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\003.jpg ==> d:\new\20140629\20140629_081419_002.jpg 
+2014-07-06 12:39:02,436 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\asdf\001.jpg ==> d:\new\20140629\20140629_081419.jpg 
+2014-07-06 12:39:02,788 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: d:\temp\asdf\001.jpg
+java.lang.NullPointerException
+	at javax.imageio.ImageIO.write(Unknown Source)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:176)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:136)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:31)
+2014-07-06 12:39:02,791 ERROR main org.kenigma.imageutil.ImageUtil - No EXIF info for d:\temp\asdf\001s.jpg, skipping.
+2014-07-06 12:39:02,798 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002.jpg ==> d:\new\20140629\20140629_081419_001.jpg 
+2014-07-06 12:39:03,085 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: d:\temp\002.jpg
+java.lang.NullPointerException
+	at javax.imageio.ImageIO.write(Unknown Source)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:176)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:136)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:31)
+2014-07-06 12:39:03,090 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\003.jpg ==> d:\new\20140629\20140629_081419_002.jpg 
+2014-07-06 12:39:03,376 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: d:\temp\003.jpg
+java.lang.NullPointerException
+	at javax.imageio.ImageIO.write(Unknown Source)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:176)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:136)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:31)
+2014-07-06 12:41:18,103 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\asdf\001.jpg ==> d:\new\20140629\20140629_081419_003.jpg 
+2014-07-06 12:41:18,610 INFO main org.kenigma.imageutil.ImageUtil - Resived: d:\temp\asdf\001.jpg ==> d:\small\20140629\20140629_081419.jpg
+2014-07-06 12:41:18,612 ERROR main org.kenigma.imageutil.ImageUtil - No EXIF info for d:\temp\asdf\001s.jpg, skipping.
+2014-07-06 12:41:18,622 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002.jpg ==> d:\new\20140629\20140629_081419_004.jpg 
+2014-07-06 12:41:19,008 INFO main org.kenigma.imageutil.ImageUtil - Resived: d:\temp\002.jpg ==> d:\small\20140629\20140629_081419_001_small.jpg
+2014-07-06 12:41:19,013 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\003.jpg ==> d:\new\20140629\20140629_081419_005.jpg 
+2014-07-06 12:41:19,411 INFO main org.kenigma.imageutil.ImageUtil - Resived: d:\temp\003.jpg ==> d:\small\20140629\20140629_081419_002_small.jpg
+2014-07-06 12:48:02,855 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002.jpg ==> d:\new\20140629\20140629_081419.jpg 
+2014-07-06 12:48:03,404 INFO main org.kenigma.imageutil.ImageUtil - Resived: d:\temp\002.jpg ==> d:\small\20140629\20140629_081419_small.jpg
+2014-07-06 12:48:03,413 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\001.jpg ==> d:\new\20140629\20140629_081419_001.jpg 
+2014-07-06 12:48:03,801 INFO main org.kenigma.imageutil.ImageUtil - Resived: d:\temp\001.jpg ==> d:\small\20140629\20140629_081419_001_small.jpg
+2014-07-06 12:48:03,807 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\003.jpg ==> d:\new\20140629\20140629_081419_002.jpg 
+2014-07-06 12:48:04,227 INFO main org.kenigma.imageutil.ImageUtil - Resived: d:\temp\003.jpg ==> d:\small\20140629\20140629_081419_002_small.jpg
+2014-07-06 12:48:04,233 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\004.jpg ==> d:\new\20140629\20140629_081509.jpg 
+2014-07-06 12:48:04,558 INFO main org.kenigma.imageutil.ImageUtil - Resived: d:\temp\004.jpg ==> d:\small\20140629\20140629_081509_small.jpg
+2014-07-07 10:59:59,141 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002.jpg ==> d:\new\20140629\20140629_081419.jpg 
+2014-07-07 11:00:00,271 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\002.jpg ==> d:\small\20140629_081419_small.jpg
+2014-07-07 11:00:00,336 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\001.jpg ==> d:\new\20140629\20140629_081419_001.jpg 
+2014-07-07 11:00:00,788 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\001.jpg ==> d:\small\20140629_081419_001_small.jpg
+2014-07-07 11:00:00,795 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\003.jpg ==> d:\new\20140629\20140629_081419_002.jpg 
+2014-07-07 11:00:01,212 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\003.jpg ==> d:\small\20140629_081419_002_small.jpg
+2014-07-07 11:00:01,304 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\004.jpg ==> d:\new\20140629\20140629_081509.jpg 
+2014-07-07 11:00:01,715 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\004.jpg ==> d:\small\20140629_081509_small.jpg
+2014-07-07 11:01:47,389 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002.jpg ==> d:\new\20140629\20140629_081419.jpg 
+2014-07-07 11:01:47,918 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\002.jpg ==> d:\small\20140629\20140629_081419_small.jpg
+2014-07-07 11:01:47,925 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\001.jpg ==> d:\new\20140629\20140629_081419_001.jpg 
+2014-07-07 11:01:48,307 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\001.jpg ==> d:\small\20140629\20140629_081419_001_small.jpg
+2014-07-07 11:01:48,312 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\003.jpg ==> d:\new\20140629\20140629_081419_002.jpg 
+2014-07-07 11:01:48,713 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\003.jpg ==> d:\small\20140629\20140629_081419_002_small.jpg
+2014-07-07 11:01:48,718 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\004.jpg ==> d:\new\20140629\20140629_081509.jpg 
+2014-07-07 11:01:49,033 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\004.jpg ==> d:\small\20140629\20140629_081509_small.jpg
