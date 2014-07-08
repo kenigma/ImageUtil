@@ -7,7 +7,9 @@ import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Set;
 import java.util.TimeZone;
 
@@ -31,25 +33,28 @@ public class ImageUtil {
 
 	private SimpleDateFormat filenameSDF;
 	private SimpleDateFormat subDirnameSDF;
+	private SimpleDateFormat eventDescKeySDF;
 	private String thumbnailSuffix = "_small";
 	private float factor = 0.5f;
+	private String [] supportedExts = { "jpg", "JPG" };
+	private Map<String, String> props = new HashMap<String, String>();
 
 	public ImageUtil() {
 		filenameSDF = new SimpleDateFormat("yyyyMMdd_HHmmss");
 		filenameSDF.setTimeZone(TimeZone.getTimeZone("GMT+8"));
-		subDirnameSDF = new SimpleDateFormat("yyyyMMdd");
+		subDirnameSDF = new SimpleDateFormat("yyyy_MM_dd");
 		subDirnameSDF.setTimeZone(TimeZone.getTimeZone("GMT+8"));
+		eventDescKeySDF = new SimpleDateFormat("yyyyMMdd");
+		eventDescKeySDF.setTimeZone(TimeZone.getTimeZone("GMT+8"));
 	}
-
-	private String getExt(String filename) {
-		int i = filename.lastIndexOf(".");
-		String ext = filename.substring(i + 1);
-		return ext;
+	
+	public void setProps(String key, String value) {
+		this.props.put(key, value);
 	}
-
+	
 	private boolean isSupportedImageFile(File file) {
 		String filename = file.getName();
-		return filename.toLowerCase().endsWith("jpg"); // TODO
+		return FilenameUtils.isExtension(filename, supportedExts);
 	}
 
 	private Set<File> listImageFiles(File dir, boolean includeSubDir) {
@@ -73,6 +78,13 @@ public class ImageUtil {
 			throw new IllegalArgumentException("Missing image taken date.");
 		}
 		String subDirname = subDirnameSDF.format(takenDate);
+		String eventDescKey = eventDescKeySDF.format(takenDate);
+		
+		if(this.props!= null && this.props.containsKey(eventDescKey)) {
+			String desc = this.props.get(eventDescKey);
+			subDirname += "_" + desc.replace(' ', '_');
+		}
+		
 		return subDirname;
 	}
 
@@ -108,7 +120,8 @@ public class ImageUtil {
 		for (File f : files) {
 			try {
 				String oriFilename = f.getName();
-				String ext = this.getExt(oriFilename);
+				//String ext = this.getExt(oriFilename);
+				String ext = FilenameUtils.getExtension(oriFilename);
 				Metadata metadata = ImageMetadataReader.readMetadata(f);
 				ExifIFD0Directory ifd0Dir = metadata.getDirectory(ExifIFD0Directory.class);
 				if (ifd0Dir == null) {
@@ -116,11 +129,20 @@ public class ImageUtil {
 					continue;
 				}
 				Date takenDate = ifd0Dir.getDate(ExifIFD0Directory.TAG_DATETIME);
-
+				
+				String modelSuffix = "";
+				String model = ifd0Dir.getString(ExifIFD0Directory.TAG_MODEL);
+				if(model != null) {
+					model = model.trim().replace(' ', '_');
+					if(this.props.containsKey(model)) {
+						modelSuffix = this.props.get(model);
+					}
+				}
+				
 				String newFilenamePrefix = this.genFilenamePrefixByDateTaken(takenDate);
 				String subDirname = this.genSubDirnameByDateTaken(takenDate);
 
-				File destFile = this.genDestFile(destDir.getAbsolutePath(), subDirname, newFilenamePrefix, THREE_DIGIT_SEQ_FORMAT, "", ext);
+				File destFile = this.genDestFile(destDir.getAbsolutePath(), subDirname, newFilenamePrefix, THREE_DIGIT_SEQ_FORMAT, modelSuffix, ext);
 
 				if (toMove) {
 					FileUtils.moveFile(f, destFile);
@@ -135,8 +157,8 @@ public class ImageUtil {
 					String tnBasePath = FilenameUtils.concat(thumbnailDir.getAbsolutePath(), subDirname);
 					String tnFullPath = FilenameUtils.concat(tnBasePath, destBaseName + this.thumbnailSuffix + "." + ext);
 					File thumbnailDestFile = new File(tnFullPath);
-					this.resize(f, thumbnailDestFile);
-					LOGGER.info("Resized: {} ==> {}", f.getAbsolutePath(), thumbnailDestFile.getAbsolutePath());
+					this.resize(destFile, thumbnailDestFile);
+					LOGGER.info("Resized: {} ==> {}", destFile.getAbsolutePath(), thumbnailDestFile.getAbsolutePath());
 
 				}
 

@@ -100,3 +100,190 @@ java.lang.NullPointerException
 2014-07-07 11:01:48,713 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\003.jpg ==> d:\small\20140629\20140629_081419_002_small.jpg
 2014-07-07 11:01:48,718 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\004.jpg ==> d:\new\20140629\20140629_081509.jpg 
 2014-07-07 11:01:49,033 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\004.jpg ==> d:\small\20140629\20140629_081509_small.jpg
+2014-07-08 17:11:06,023 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2208.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124401.JPG 
+2014-07-08 17:11:09,227 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2208.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124401_small.JPG
+2014-07-08 17:11:10,170 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2206.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124354.JPG 
+2014-07-08 17:11:10,923 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2206.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124354_small.JPG
+2014-07-08 17:11:11,028 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2215.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124416.JPG 
+2014-07-08 17:11:11,711 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2215.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124416_small.JPG
+2014-07-08 17:11:11,903 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2211.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124410.JPG 
+2014-07-08 17:11:12,674 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2211.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124410_small.JPG
+2014-07-08 17:11:12,904 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2212.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124411.JPG 
+2014-07-08 17:11:13,654 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2212.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124411_small.JPG
+2014-07-08 17:11:13,761 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2205.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124353.JPG 
+2014-07-08 17:11:14,484 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2205.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124353_small.JPG
+2014-07-08 17:11:14,592 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2207.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124355.JPG 
+2014-07-08 17:11:15,276 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2207.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124355_small.JPG
+2014-07-08 17:11:15,393 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2214.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124414.JPG 
+2014-07-08 17:11:16,085 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2214.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124414_small.JPG
+2014-07-08 17:11:16,205 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2210.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124403.JPG 
+2014-07-08 17:11:16,902 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2210.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124403_small.JPG
+2014-07-08 17:11:17,029 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2209.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124402.JPG 
+2014-07-08 17:11:17,726 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2209.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124402_small.JPG
+2014-07-08 17:11:17,838 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2213.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124412.JPG 
+2014-07-08 17:11:18,634 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2213.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124412_small.JPG
+2014-07-08 18:17:02,945 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2208.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124401_D600.JPG 
+2014-07-08 18:17:05,084 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2208.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124401_D600_small.JPG
+2014-07-08 18:17:05,196 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2211.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124410_D600.JPG 
+2014-07-08 18:17:06,074 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2211.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124410_D600_small.JPG
+2014-07-08 18:17:06,175 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2215.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124416_D600.JPG 
+2014-07-08 18:17:06,857 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2215.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124416_D600_small.JPG
+2014-07-08 18:17:06,997 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2212.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124411_D600.JPG 
+2014-07-08 18:17:07,685 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2212.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124411_D600_small.JPG
+2014-07-08 18:17:07,722 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/IMG_7693.JPG ==> /Users/kwyeung/Desktop/dest/2012_12_14/20121214_121056_IP4.JPG 
+2014-07-08 18:17:07,929 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/IMG_7693.JPG ==> /Users/kwyeung/Desktop/thumb/2012_12_14/20121214_121056_IP4_small.JPG
+2014-07-08 18:17:08,033 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2205.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124353_D600.JPG 
+2014-07-08 18:17:08,728 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2205.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124353_D600_small.JPG
+2014-07-08 18:17:08,850 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2209.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124402_D600.JPG 
+2014-07-08 18:17:09,596 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2209.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124402_D600_small.JPG
+2014-07-08 18:17:09,643 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/20140118_163502.jpg ==> /Users/kwyeung/Desktop/dest/2014_01_18/20140118_163501_S4.jpg 
+2014-07-08 18:17:10,030 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/20140118_163502.jpg ==> /Users/kwyeung/Desktop/thumb/2014_01_18/20140118_163501_S4_small.jpg
+2014-07-08 18:17:10,139 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2206.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124354_D600.JPG 
+2014-07-08 18:17:10,809 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2206.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124354_D600_small.JPG
+2014-07-08 18:17:10,913 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2207.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124355_D600.JPG 
+2014-07-08 18:17:11,619 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2207.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124355_D600_small.JPG
+2014-07-08 18:17:11,702 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/P3233671.JPG ==> /Users/kwyeung/Desktop/dest/2014_03_23/20140323_110719_XZ.JPG 
+2014-07-08 18:17:12,110 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/P3233671.JPG ==> /Users/kwyeung/Desktop/thumb/2014_03_23/20140323_110719_XZ_small.JPG
+2014-07-08 18:17:12,235 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2210.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124403_D600.JPG 
+2014-07-08 18:17:12,927 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2210.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124403_D600_small.JPG
+2014-07-08 18:17:13,047 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2214.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124414_D600.JPG 
+2014-07-08 18:17:13,765 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2214.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124414_D600_small.JPG
+2014-07-08 18:17:13,894 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2213.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124412_D600.JPG 
+2014-07-08 18:17:14,620 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2213.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124412_D600_small.JPG
+2014-07-08 18:17:14,697 INFO main org.kenigma.imageutil.ImageUtil - Copy: /Users/kwyeung/Desktop/testRaw/fewset/DSC_20120101_201733.JPG ==> /Users/kwyeung/Desktop/dest/2012_01_02/20120102_005649_D90.JPG 
+2014-07-08 18:17:15,004 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/DSC_20120101_201733.JPG ==> /Users/kwyeung/Desktop/thumb/2012_01_02/20120102_005649_D90_small.JPG
+2014-07-08 18:19:39,484 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2208.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124401_D600.JPG 
+2014-07-08 18:19:39,745 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2208.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,779 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2211.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124410_D600.JPG 
+2014-07-08 18:19:39,779 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2211.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,783 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2215.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124416_D600.JPG 
+2014-07-08 18:19:39,783 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2215.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,789 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2212.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124411_D600.JPG 
+2014-07-08 18:19:39,789 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2212.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,818 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/IMG_7693.JPG ==> /Users/kwyeung/Desktop/dest/2012_12_14/20121214_121056_IP4.JPG 
+2014-07-08 18:19:39,818 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/IMG_7693.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,822 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2205.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124353_D600.JPG 
+2014-07-08 18:19:39,822 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2205.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,826 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2209.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124402_D600.JPG 
+2014-07-08 18:19:39,827 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2209.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,833 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/20140118_163502.jpg ==> /Users/kwyeung/Desktop/dest/2014_01_18/20140118_163501_S4.jpg 
+2014-07-08 18:19:39,834 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/20140118_163502.jpg
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,840 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2206.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124354_D600.JPG 
+2014-07-08 18:19:39,840 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2206.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,843 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2207.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124355_D600.JPG 
+2014-07-08 18:19:39,843 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2207.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,850 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/P3233671.JPG ==> /Users/kwyeung/Desktop/dest/2014_03_23/20140323_110719_XZ.JPG 
+2014-07-08 18:19:39,850 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/P3233671.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,854 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2210.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124403_D600.JPG 
+2014-07-08 18:19:39,854 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2210.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,857 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2214.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124414_D600.JPG 
+2014-07-08 18:19:39,857 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2214.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,861 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2213.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124412_D600.JPG 
+2014-07-08 18:19:39,861 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_2213.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:19:39,870 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/DSC_20120101_201733.JPG ==> /Users/kwyeung/Desktop/dest/2012_01_02/20120102_005649_D90.JPG 
+2014-07-08 18:19:39,870 ERROR main org.kenigma.imageutil.ImageUtil - Error processing: /Users/kwyeung/Desktop/testRaw/fewset/DSC_20120101_201733.JPG
+javax.imageio.IIOException: Can't read input file!
+	at javax.imageio.ImageIO.read(ImageIO.java:1275)
+	at org.kenigma.imageutil.ImageUtil.resize(ImageUtil.java:202)
+	at org.kenigma.imageutil.ImageUtil.renameImages(ImageUtil.java:160)
+	at org.kenigma.imageutil.main.CopyFilesMain.main(CopyFilesMain.java:50)
+2014-07-08 18:26:34,711 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124411_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124411_D600.JPG 
+2014-07-08 18:26:36,103 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124411_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124411_D600_small.JPG
+2014-07-08 18:26:36,107 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124401_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124401_D600.JPG 
+2014-07-08 18:26:36,922 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124401_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124401_D600_small.JPG
+2014-07-08 18:26:36,925 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124412_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124412_D600.JPG 
+2014-07-08 18:26:37,625 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124412_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124412_D600_small.JPG
+2014-07-08 18:26:37,637 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2012_01_02/20120102_005649_D90.JPG ==> /Users/kwyeung/Desktop/dest/2012_01_02/20120102_005649_D90.JPG 
+2014-07-08 18:26:37,962 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2012_01_02/20120102_005649_D90.JPG ==> /Users/kwyeung/Desktop/thumb/2012_01_02/20120102_005649_D90_small.JPG
+2014-07-08 18:26:37,966 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124402_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124402_D600.JPG 
+2014-07-08 18:26:38,691 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124402_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124402_D600_small.JPG
+2014-07-08 18:26:38,696 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_01_18/20140118_163501_S4.jpg ==> /Users/kwyeung/Desktop/dest/2014_01_18/20140118_163501_S4.jpg 
+2014-07-08 18:26:39,095 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_01_18/20140118_163501_S4.jpg ==> /Users/kwyeung/Desktop/thumb/2014_01_18/20140118_163501_S4_small.jpg
+2014-07-08 18:26:39,098 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124414_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124414_D600.JPG 
+2014-07-08 18:26:39,791 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124414_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124414_D600_small.JPG
+2014-07-08 18:26:39,798 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_03_23/20140323_110719_XZ.JPG ==> /Users/kwyeung/Desktop/dest/2014_03_23/20140323_110719_XZ.JPG 
+2014-07-08 18:26:40,242 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_03_23/20140323_110719_XZ.JPG ==> /Users/kwyeung/Desktop/thumb/2014_03_23/20140323_110719_XZ_small.JPG
+2014-07-08 18:26:40,248 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124354_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124354_D600.JPG 
+2014-07-08 18:26:40,922 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124354_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124354_D600_small.JPG
+2014-07-08 18:26:40,925 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124353_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124353_D600.JPG 
+2014-07-08 18:26:41,625 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124353_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124353_D600_small.JPG
+2014-07-08 18:26:41,628 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124403_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124403_D600.JPG 
+2014-07-08 18:26:42,351 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124403_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124403_D600_small.JPG
+2014-07-08 18:26:42,355 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124410_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124410_D600.JPG 
+2014-07-08 18:26:43,072 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124410_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124410_D600_small.JPG
+2014-07-08 18:26:43,075 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124355_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124355_D600.JPG 
+2014-07-08 18:26:43,758 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124355_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124355_D600_small.JPG
+2014-07-08 18:26:43,761 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124416_D600.JPG ==> /Users/kwyeung/Desktop/dest/2014_06_09_At_Home/20140609_124416_D600.JPG 
+2014-07-08 18:26:44,431 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2014_06_09_At_Home/20140609_124416_D600.JPG ==> /Users/kwyeung/Desktop/thumb/2014_06_09_At_Home/20140609_124416_D600_small.JPG
+2014-07-08 18:26:44,435 INFO main org.kenigma.imageutil.ImageUtil - Move: /Users/kwyeung/Desktop/testRaw/fewset/2012_12_14/20121214_121056_IP4.JPG ==> /Users/kwyeung/Desktop/dest/2012_12_14/20121214_121056_IP4.JPG 
+2014-07-08 18:26:44,645 INFO main org.kenigma.imageutil.ImageUtil - Resized: /Users/kwyeung/Desktop/testRaw/fewset/2012_12_14/20121214_121056_IP4.JPG ==> /Users/kwyeung/Desktop/thumb/2012_12_14/20121214_121056_IP4_small.JPG
