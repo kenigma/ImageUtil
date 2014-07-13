@@ -100,3 +100,11 @@ java.lang.NullPointerException
 2014-07-07 11:01:48,713 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\003.jpg ==> d:\small\20140629\20140629_081419_002_small.jpg
 2014-07-07 11:01:48,718 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\004.jpg ==> d:\new\20140629\20140629_081509.jpg 
 2014-07-07 11:01:49,033 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\004.jpg ==> d:\small\20140629\20140629_081509_small.jpg
+2014-07-07 11:19:47,139 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\002.jpg ==> d:\new\20140629\20140629_081419.jpg 
+2014-07-07 11:19:47,667 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\002.jpg ==> d:\small\20140629\20140629_081419_small.jpg
+2014-07-07 11:19:47,675 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\001.jpg ==> d:\new\20140629\20140629_081419_001.jpg 
+2014-07-07 11:19:48,066 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\001.jpg ==> d:\small\20140629\20140629_081419_001_small.jpg
+2014-07-07 11:19:48,071 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\003.jpg ==> d:\new\20140629\20140629_081419_002.jpg 
+2014-07-07 11:19:48,478 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\003.jpg ==> d:\small\20140629\20140629_081419_002_small.jpg
+2014-07-07 11:19:48,484 INFO main org.kenigma.imageutil.ImageUtil - Copy: d:\temp\004.jpg ==> d:\new\20140629\20140629_081509.jpg 
+2014-07-07 11:19:48,809 INFO main org.kenigma.imageutil.ImageUtil - Resized: d:\temp\004.jpg ==> d:\small\20140629\20140629_081509_small.jpg
